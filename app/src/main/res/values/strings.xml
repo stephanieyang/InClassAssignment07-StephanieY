@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Info</string>
+    <string name="title_hint">Title</string>
+    <string name="year_hint">Release Year</string>
+    <string name="eng_avail">Available in English</string>
+    <string name="submit_btn">Submit</string>
+    <string name="add_btn">Add New Movie</string>
+    <string name="list_title">Movie List</string>
+</resources>
